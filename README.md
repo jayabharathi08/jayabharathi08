@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**jayabharathi08/jayabharathi08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jayabharathi Balan
 
 Here are some ideas to get you started:
 
